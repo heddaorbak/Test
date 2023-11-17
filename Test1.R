@@ -4,6 +4,7 @@
 # tibble - use dplyr::distinct() get rid of repeated rows
 # missing data - naniar:: vis_miss()
 
+print("Good morning Hedda!")
 
 library(tidyverse)
 library(palmerpenguins)
